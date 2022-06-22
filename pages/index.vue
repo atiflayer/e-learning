@@ -14,6 +14,7 @@
         <Admission />
         <Job-Ready />
         <Class />
+        <Reviews />
         <GetApp />
         <Features2 />
         <Hero />

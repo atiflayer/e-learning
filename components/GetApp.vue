@@ -1,30 +1,15 @@
 <template>
     <section class="bg-gray-900 mx-72 rounded-xl">
-        <div class="container px-6 py-4 mx-auto">
-            <h1 class="text-3xl font-semibold text-white capitalize lg:text-3xl mt-12">ডাউনলোড করো আমাদের মোবাইল <br>
+        <div class="container px-6 py-4 mx-6 pb-6">
+            <h1 class="text-3xl font-semibold text-white capitalize lg:text-3xl mt-12">ডাউনলোড করো আমাদের মোবাইল
+                <br>
                 অ্যাপ,
                 শেখা
-                শুরু করো আজ থেকেই</h1>
+                শুরু করো আজ থেকেই
+            </h1>
             <div class="mt-2 xl:mt-4 lg:flex lg:items-center">
                 <div class="w-full lg:w-1/2 grid grid-cols-1 gap-8 xl:gap-16 md:grid-cols-2">
-                    <div class="space-y-3">
-                        <span
-                            class="inline-block p-3 text-blue-500 bg-blue-100 rounded-xl dark:text-white dark:bg-blue-500">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24"
-                                stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
-                            </svg>
-                        </span>
-
-                        <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">New Components</h1>
-
-                        <p class="text-gray-500 dark:text-gray-300">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos
-                            vel non corrupti doloribus voluptatum eveniet
-                        </p>
-                    </div>
-                    <div class="md:flex md:items-start md:-mx-4">
+                    <div class="md:flex md:items-start">
                         <span
                             class="inline-block p-2 text-blue-500 bg-blue-100 rounded-xl md:mx-4 dark:text-white dark:bg-blue-500">
                             <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24"
@@ -33,14 +18,54 @@
                                     d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
                             </svg>
                         </span>
-
-                        <div class="mt-4 md:mx-4 md:mt-0">
-                            <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">Zero
-                                Configrations</h1>
-
+                        <div class="md:mx-2 md:mt-0">
+                            <h1 class="text-base font-semibold text-white capitalize dark:text-white">রিসোর্স ডাউনলোড
+                            </h1>
                         </div>
                     </div>
-
+                    <div class="md:flex md:items-start">
+                        <span
+                            class="inline-block p-2 text-blue-500 bg-blue-100 rounded-xl md:mx-4 dark:text-white dark:bg-blue-500">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24"
+                                stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
+                            </svg>
+                        </span>
+                        <div class="md:mx-2 md:mt-0">
+                            <h1 class="text-base font-semibold text-white capitalize dark:text-white">প্রোগ্রেস
+                                ট্র্যাকিং
+                            </h1>
+                        </div>
+                    </div>
+                    <div class="md:flex md:items-start">
+                        <span
+                            class="inline-block p-2 text-blue-500 bg-blue-100 rounded-xl md:mx-4 dark:text-white dark:bg-blue-500">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24"
+                                stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
+                            </svg>
+                        </span>
+                        <div class="md:mx-2 md:mt-0">
+                            <h1 class="text-base font-semibold text-white capitalize dark:text-white">অফলাইন এক্সেস
+                            </h1>
+                        </div>
+                    </div>
+                    <div class="md:flex md:items-start">
+                        <span
+                            class="inline-block p-2 text-blue-500 bg-blue-100 rounded-xl md:mx-4 dark:text-white dark:bg-blue-500">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24"
+                                stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
+                            </svg>
+                        </span>
+                        <div class="md:mx-2 md:mt-0">
+                            <h1 class="text-base font-semibold text-white capitalize dark:text-white">কোর্স নোটিফিকেশন
+                            </h1>
+                        </div>
+                    </div>
                     <!-- <div class="space-y-3">
                         <span
                             class="inline-block p-3 text-blue-500 bg-blue-100 rounded-xl dark:text-white dark:bg-blue-500">
