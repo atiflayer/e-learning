@@ -1,6 +1,10 @@
 <template>
     <section class="bg-white">
-        <div class="flex flex-col justify-center px-6 py-10 mx-auto w-1/2">
+        <div class="flex flex-col justify-center px-1 py-10 mx-auto w-3/5">
+            <div class="flex flex-col text-center w-full mb-4">
+                <p class="mx-auto leading-relaxed font-bold lg:text-base text-base">গণমাধ্যমে সফলতার গল্প
+                </p>
+            </div>
             <!-- <div class="lg:flex lg:items-center">
                 <div class="w-full space-y-12 lg:w-1/2 ">
                     <div>
@@ -107,41 +111,39 @@
                 <div class="carousel-item w-32">
                     <img src="https://10minuteschool.com/assets/icons/home-page/ntv.png" class="rounded-box" />
                 </div>
-                <div class="carousel-item w-64">
+                <div class="carousel-item w-72">
                     <img src="https://10minuteschool.com/assets/icons/home-page/thedailystar.png" class="rounded-box" />
                 </div>
                 <div class="carousel-item w-64">
                     <img src="https://10minuteschool.com/assets/icons/home-page/prothom-alo.png" class="rounded-box" />
                 </div>
-                <div class="carousel-item w-1/5">
+                <div class="carousel-item w-32">
                     <img src="https://10minuteschool.com/assets/icons/home-page/thebusinessstandard.png"
                         class="rounded-box" />
                 </div>
             </div>
             <div class="carousel text-center my-6">
                 <div class="carousel-item w-full">
-                    <p class="px-32">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam aliquid temporibus
-                        amet eligendi
-                        qui ipsam illo nostrum non odio autem hic, blanditiis rem! Eligendi ullam explicabo rerum
-                        beatae? Accusamus, modi.</p>
+                    <p class="px-32">
+                        "দেশের সবচেয়ে বড় অনলাইনভিত্তিক শিক্ষা প্ল্যাটফর্ম টেন মিনিট স্কুল ১৭ কোটি টাকা বিদেশি বিনিয়োগ
+                        পেয়েছে। প্রতিষ্ঠানটি প্রথমবারের মতো প্রাতিষ্ঠানিক এ বিনিয়োগ পেয়েছে। ভারতের সেকোয়া ক্যাপিটাল
+                        এ টাকা বিনিয়োগ করেছে। "</p>
                 </div>
                 <div class="carousel-item w-full">
-                    <p class="px-32">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam aliquid temporibus
-                        amet eligendi
-                        qui ipsam illo nostrum non odio autem hic, blanditiis rem! Eligendi ullam explicabo rerum
-                        beatae? Accusamus, modi.</p>
+                    <p class="px-32">
+                        "Online educational platform 10 Minute School has raised $2 million in seed funding from Surge,
+                        Sequoia Capital India’s rapid scale-up programme, to increase investment in product and
+                        technology. "</p>
                 </div>
                 <div class="carousel-item w-full">
-                    <p class="px-32">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam aliquid temporibus
-                        amet eligendi
-                        qui ipsam illo nostrum non odio autem hic, blanditiis rem! Eligendi ullam explicabo rerum
-                        beatae? Accusamus, modi.</p>
+                    <p class="px-32">নতুন প্রজন্মের শিক্ষার্থীদের দক্ষতানির্ভর হয়ে উঠতে সাহায্য করতে টেন মিনিট স্কুল
+                        চেষ্টা চালিয়ে যাচ্ছে।</p>
                 </div>
                 <div class="carousel-item w-full">
-                    <p class="px-32">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam aliquid temporibus
-                        amet eligendi
-                        qui ipsam illo nostrum non odio autem hic, blanditiis rem! Eligendi ullam explicabo rerum
-                        beatae? Accusamus, modi.</p>
+                    <p class="px-32">
+                        "Country’s largest online education institution, 10 Minute School, has raised $2 million in seed
+                        funding from Surge, Sequoia Capital India’s rapid scale-up programme."
+                        .</p>
                 </div>
             </div>
         </div>

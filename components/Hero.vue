@@ -10,7 +10,7 @@
                     </p>
                     <div class="flex flex-col mt-6 space-y-3 lg:space-y-0 lg:flex-row">
                         <NuxtLink to="/"
-                            class="px-8 py-2 text-base font-semibold text-center text-white bg-emerald-700 rounded-md btn btn-ghost">
+                            class="px-8 py-4 text-base font-semibold text-center text-white bg-emerald-700 rounded-md">
                             আজই জয়েন করুন</NuxtLink>
                     </div>
                 </div>

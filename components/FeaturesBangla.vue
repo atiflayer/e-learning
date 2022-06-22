@@ -1,14 +1,14 @@
 <template>
     <section class="mt-32 lg:mb-16 md:mt-12 lg:mt-16 bg-white text-gray-900">
-        <div class="container mx-auto p-2 my-6 space-y-1 text-center">
-            <h2 class="text-5xl lg:text-3xl font-bold font-sans xl:px-72 xl:mx-auto leading-relaxed">নিজের শেখা নিজেই
+        <div class="container mx-auto p-2 my-4 space-y-1 text-center">
+            <h2 class="text-3xl lg:text-3xl font-bold font-sans xl:px-72 xl:mx-auto leading-relaxed">নিজের শেখা নিজেই
                 গুছিয়ে <br> নেয়ার
                 যাত্রা শুরু হোক
             </h2>
             <p class="text-gray-500 lg:text-lg py-2">যেকোনো বিষয়ের যেকোনো টপিকে পড়ালেখা করতে চলে যাও তোমার পছন্দের
                 সেকশনে</p>
         </div>
-        <div class="grid grid-cols-1 gap-8 mt-8 md:grid-cols-2 lg:grid-cols-4 p-3 m-4 bg-gray-100">
+        <div class="grid grid-cols-1 gap-8 mt-6 md:grid-cols-2 lg:grid-cols-4 p-3 m-4 bg-gray-100">
             <NuxtLink
                 class="flex items-center justify-center p-2 transition bg-white border border-transparent rounded-xl group hover:border-green-600 hover:scale-100"
                 to="/">
@@ -20,7 +20,7 @@
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                         d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222" />
                 </svg>
-                <h3 class="ml-4 text-xl font-bold text-black items-center group-hover:text-green-600">ক্লাস ১-১২</h3>
+                <h3 class="ml-4 text-lg font-bold text-black items-center group-hover:text-green-600">ক্লাস ১-১২</h3>
             </NuxtLink>
             <NuxtLink
                 class="flex items-center justify-center p-4 transition bg-white border border-transparent rounded-xl group hover:border-green-600 hover:scale-100"
@@ -33,7 +33,7 @@
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                         d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222" />
                 </svg>
-                <h3 class="ml-4 text-xl font-bold text-black items-center group-hover:text-green-600">ভর্তি পরীক্ষা</h3>
+                <h3 class="ml-4 text-lg font-bold text-black items-center group-hover:text-green-600">ভর্তি পরীক্ষা</h3>
             </NuxtLink>
             <NuxtLink
                 class="flex items-center justify-center p-4 transition bg-white border border-transparent rounded-xl group hover:border-green-600 hover:scale-100"
@@ -46,7 +46,7 @@
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                         d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222" />
                 </svg>
-                <h3 class="ml-4 text-xl font-bold text-black items-center group-hover:text-green-600">চাকরি প্রস্তুতি
+                <h3 class="ml-4 text-lg font-bold text-black items-center group-hover:text-green-600">চাকরি প্রস্তুতি
                 </h3>
             </NuxtLink>
             <NuxtLink
@@ -60,7 +60,7 @@
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                         d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222" />
                 </svg>
-                <h3 class="ml-4 text-xl font-bold text-black items-center group-hover:text-green-600">কোর্স সমূহ</h3>
+                <h3 class="ml-4 text-lg font-bold text-black items-center group-hover:text-green-600">কোর্স সমূহ</h3>
             </NuxtLink>
         </div>
         <div class="container mx-auto grid justify-center gap-4 sm:grid-cols-2 lg:grid-cols-3">
