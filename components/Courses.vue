@@ -1,10 +1,9 @@
 <template>
-    <section class="text-gray-900 body-font bg-gray-100">
+    <section class="text-gray-900 body-font">
         <div class="container px-32 lg:px-56 md:px-2 py-6 mx-auto">
-            <div class="container mx-auto p-2 my-6 space-y-1 text-center">
-                <h2 class="text-2xl lg:text-2xl font-bold font-sans xl:px-72 xl:mx-auto">ক্লাস ১-১২
+            <div class="container mx-auto p-2 my-8 space-y-1 text-center">
+                <h2 class="text-2xl lg:text-2xl font-bold font-sans xl:px-72 xl:mx-auto">স্পেশাল ক্র্যাশ কোর্স
                 </h2>
-                <p class="text-gray-500 lg:text-xl py-2">তুমি এখন পড়াশোনার কোন পর্যায় আছো?</p>
             </div>
             <div class="flex flex-wrap -m-2">
                 <div class="p-2 md:w-1/3 transition duration-300 ease-in-out transform hover:-translate-y-5">

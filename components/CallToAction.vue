@@ -1,6 +1,6 @@
 <template>
-    <header class="w-full px-72 py-8 bg-white">
-        <div class="lg:flex">
+    <header class="w-full lg:px-72 px-36 py-8 bg-white">
+        <div class="lg:flex flex-row">
             <div class="flex items-center justify-center w-full px-6 py-8">
                 <div class="max-w-xl leading-relaxed">
                     <h2 class="text-2xl font-semibold text-gray-800 lg:text-3xl">
@@ -16,7 +16,7 @@
                 </div>
             </div>
             <div class="w-full rounded-xl">
-                <img class="w-3/4" src="https://cdn.10minuteschool.com/home/join.jpg" alt="">
+                <img class="lg:w-3/4 w-full justify-center" src="https://cdn.10minuteschool.com/home/join.jpg" alt="">
             </div>
         </div>
     </header>

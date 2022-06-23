@@ -1,9 +1,8 @@
 <template>
   <div>
-    <!-- <NavbarEnglish /> -->
-    <NavbarBangla />
+    <Navbar />
     <NuxtPage />
+    <Footer1 />
     <Footer2 />
-    <Footer3 />
   </div>
 </template>
